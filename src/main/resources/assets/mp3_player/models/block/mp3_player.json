@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_top",
+    "textures": {
+        "top": "mp3_player:block/mp3_player_top",
+        "side": "mp3_player:block/mp3_player_side"
+    }
+}

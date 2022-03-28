@@ -3,18 +3,18 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "MP3 Player mod",
+  "description": "A minecraft mod that transforms the jukebox into a fully-fledged MP3 player.",
   "authors": [
-    "Me!"
+    "lalo5",
+    "trinzto"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/axelrindle/minecraft-mp3-player"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/mp3_player/icon.png",
 
   "environment": "*",
   "entrypoints": {
