@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# minecraft-mp3-player
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+> :musical_note: A minecraft mod that transforms the jukebox into a fully-fledged MP3 player.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+[LGPLv3](LICENSE)
